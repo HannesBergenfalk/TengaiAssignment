@@ -1,0 +1,14 @@
+C:\Users\hanne\source\repos\TengaiAssignment\bin\Debug\netcoreapp2.1\TengaiAssignment.deps.json
+C:\Users\hanne\source\repos\TengaiAssignment\bin\Debug\netcoreapp2.1\TengaiAssignment.runtimeconfig.json
+C:\Users\hanne\source\repos\TengaiAssignment\bin\Debug\netcoreapp2.1\TengaiAssignment.runtimeconfig.dev.json
+C:\Users\hanne\source\repos\TengaiAssignment\bin\Debug\netcoreapp2.1\TengaiAssignment.dll
+C:\Users\hanne\source\repos\TengaiAssignment\bin\Debug\netcoreapp2.1\TengaiAssignment.pdb
+C:\Users\hanne\source\repos\TengaiAssignment\obj\Debug\netcoreapp2.1\TengaiAssignment.csprojAssemblyReference.cache
+C:\Users\hanne\source\repos\TengaiAssignment\obj\Debug\netcoreapp2.1\TengaiAssignment.csproj.CoreCompileInputs.cache
+C:\Users\hanne\source\repos\TengaiAssignment\obj\Debug\netcoreapp2.1\TengaiAssignment.RazorAssemblyInfo.cache
+C:\Users\hanne\source\repos\TengaiAssignment\obj\Debug\netcoreapp2.1\TengaiAssignment.RazorAssemblyInfo.cs
+C:\Users\hanne\source\repos\TengaiAssignment\obj\Debug\netcoreapp2.1\TengaiAssignment.AssemblyInfoInputs.cache
+C:\Users\hanne\source\repos\TengaiAssignment\obj\Debug\netcoreapp2.1\TengaiAssignment.AssemblyInfo.cs
+C:\Users\hanne\source\repos\TengaiAssignment\obj\Debug\netcoreapp2.1\TengaiAssignment.RazorTargetAssemblyInfo.cache
+C:\Users\hanne\source\repos\TengaiAssignment\obj\Debug\netcoreapp2.1\TengaiAssignment.dll
+C:\Users\hanne\source\repos\TengaiAssignment\obj\Debug\netcoreapp2.1\TengaiAssignment.pdb
